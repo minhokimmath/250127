@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://minhokimmath.github.io/250127/sitemap.xml
